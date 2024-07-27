@@ -1,3 +1,5 @@
+# KnightPlus is deprecated, we will now be packaging within Knight.
+
 # KnightPlus
 Knight Framework with additional built-in modules. Please note KnightPlus will **always** be a few commits behind main Knight framework.
 
